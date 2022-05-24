@@ -12,5 +12,5 @@ dependencies {
 }
 
 application {
-    mainClassName = 'com.linuxacademy.ccdak.consumer.Main'
+    mainClassName = 'com.consumerproject.ccdak.consumer.Main'
 }
